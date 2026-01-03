@@ -20,11 +20,13 @@ try:
     # Define paths to asset directories relative to project root
     ASSETS_DIR = os.path.join(PROJECT_ROOT, 'assets')
     DIAGRAMS_DIR = os.path.join(PROJECT_ROOT, 'Diagarm', 'Architeure Diagram') # Preserving folder name 'Diagarm'
+    HLD_LLD_DIR = os.path.join(PROJECT_ROOT, 'Diagarm', 'HLD & LLD Daigram') # Preserving typo 'Daigram'
 except Exception as e:
     st.error(f"Error configuring paths: {str(e)}")
     # Fallback to current directory if something goes wrong
     ASSETS_DIR = '.'
     DIAGRAMS_DIR = '.'
+    HLD_LLD_DIR = '.'
 
 # Page configuration
 st.set_page_config(
@@ -1183,8 +1185,9 @@ with tab4:
     # HLD Diagram
     col1, col2 = st.columns([1.5, 1])
     with col1:
+    with col1:
         try:
-            st.image(r"C:\Users\rattu\Downloads\3_AI TRAVEL PLANNER\Local Run\Diagarm\HLD & LLD Daigram\Picture1.png", use_container_width=True, caption="HLD Architecture Diagram")
+            st.image(os.path.join(HLD_LLD_DIR, "Picture1.png"), use_container_width=True, caption="HLD Architecture Diagram")
         except:
             st.warning("HLD Diagram Placeholder")
     
@@ -1228,7 +1231,7 @@ with tab4:
     
     # LLD Diagram
     try:
-        st.image(r"C:\Users\rattu\Downloads\3_AI TRAVEL PLANNER\Local Run\Diagarm\HLD & LLD Daigram\Picture3.png", use_container_width=True, caption="Detailed LLD Flow Diagram")
+        st.image(os.path.join(HLD_LLD_DIR, "Picture3.png"), use_container_width=True, caption="Detailed LLD Flow Diagram")
     except:
         pass
 
@@ -1260,7 +1263,7 @@ with tab5:
     col1, col2 = st.columns([2, 1])
     with col1:
         try:
-            st.image(r"C:\Users\rattu\Downloads\3_AI TRAVEL PLANNER\Local Run\Diagarm\Architeure Diagram\AI+travel+planner+Workflow.png", use_container_width=True, caption="Detailed Architecture Workflow")
+            st.image(os.path.join(DIAGRAMS_DIR, "AI+travel+planner+Workflow.png"), use_container_width=True, caption="Detailed Architecture Workflow")
         except:
             st.warning("Architecture Diagram Placeholder")
     with col2:
