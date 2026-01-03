@@ -148,6 +148,7 @@ The system follows a tiered architecture separating the UI, AI Logic, and Infras
 6.  Click **Deploy**.
 
 ### Option B: Docker Container
+The application is fully containerized. View the **[Dockerfile](CODE/Dockerfile)** for details.
 ```bash
 # Build Image
 docker build -t travel-planner-ai ./CODE
@@ -157,10 +158,23 @@ docker run -p 8501:8501 -e GROQ_API_KEY=your_key travel-planner-ai
 ```
 
 ### Option C: Kubernetes (Enterprise)
+Orchestrate the entire stack using our production-ready manifests.
+
+**📂 Infrastructure Files:**
+*   **[k8s-deployment.yaml](CODE/k8s-deployment.yaml)**: Main application deployment & service.
+*   **[elasticsearch.yaml](CODE/elasticsearch.yaml)**: StatefulSet for log storage.
+*   **[logstash.yaml](CODE/logstash.yaml)**: Log processing pipeline config.
+*   **[kibana.yaml](CODE/kibana.yaml)**: Dashboard visualization service.
+*   **[filebeat.yaml](CODE/filebeat.yaml)**: Log shipper configuration.
+
+**🚀 Deployment Steps:**
 1.  Ensure Minikube/K8s cluster is running.
 2.  Apply the deployment manifests:
     ```bash
     kubectl apply -f CODE/k8s-deployment.yaml
+    kubectl apply -f CODE/elasticsearch.yaml
+    kubectl apply -f CODE/logstash.yaml
+    kubectl apply -f CODE/kibana.yaml
     ```
 3.  Expose the service:
     ```bash
