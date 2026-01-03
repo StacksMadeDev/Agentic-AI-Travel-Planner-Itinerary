@@ -20,13 +20,14 @@
 ## 📑 Contents
 1.  [🚀 Project Overview](#-project-overview)
 2.  [✨ Key Features](#-key-features)
-3.  [🛠️ Technology Stack](#-technology-stack)
-4.  [🏗️ System Architecture](#-system-architecture)
-5.  [📂 Project Structure](#-project-structure)
-6.  [⚙️ Installation & Local Setup](#-installation--local-setup)
-7.  [☁️ Deployment Guide (Cloud & K8s)](#-deployment-guide-cloud--k8s)
-8.  [📊 LLMOps & Observability](#-llmops--observability)
-9.  [📞 Contact & Author](#-contact--author)
+3.  [🖼️ User Interface & Dashboard Tabs](#-user-interface--dashboard-tabs)
+4.  [🛠️ Technology Stack](#-technology-stack)
+5.  [🏗️ System Architecture](#-system-architecture)
+6.  [📂 Project Structure](#-project-structure)
+7.  [⚙️ Installation & Local Setup](#-installation--local-setup)
+8.  [☁️ Deployment Guide (Cloud & K8s)](#-deployment-guide-cloud--k8s)
+9.  [📊 LLMOps & Observability](#-llmops--observability)
+10. [👨‍💻 Developer & Resources](#-developer--project-resources)
 
 ---
 
@@ -112,7 +113,7 @@ The application features a premium, glassmorphism-inspired UI organized into **6
 
 ---
 
-## 4. 🏗️ System Architecture
+## 5. 🏗️ System Architecture
 
 ### 🔄 End-to-End Workflow
 The system follows a tiered architecture separating the UI, AI Logic, and Infrastructure layers.
@@ -129,7 +130,7 @@ The system follows a tiered architecture separating the UI, AI Logic, and Infras
 
 ---
 
-## 5. 📂 Project Structure
+## 6. 📂 Project Structure
 
 ```bash
 📦 Agentic-AI-Travel-Planner
@@ -150,7 +151,7 @@ The system follows a tiered architecture separating the UI, AI Logic, and Infras
 
 ---
 
-## 6. ⚙️ Installation & Local Setup
+## 7. ⚙️ Installation & Local Setup
 
 ### Prerequisites
 *   Python 3.11+
@@ -189,7 +190,7 @@ The system follows a tiered architecture separating the UI, AI Logic, and Infras
 
 ---
 
-## 7. ☁️ Deployment Guide (Cloud & K8s)
+## 8. ☁️ Deployment Guide (Cloud & K8s)
 
 ### Option A: Streamlit Cloud (Fastest)
 1.  Fork this repository.
@@ -235,7 +236,7 @@ Orchestrate the entire stack using our production-ready manifests.
 
 ---
 
-## 8. 📊 LLMOps & Observability
+## 9. 📊 LLMOps & Observability
 
 This project implements a full **LLMOps Pipeline** to ensure AI reliability.
 *   **Logging:** Every AI interaction (Prompt, Response, Latency) is logged.
@@ -251,7 +252,7 @@ This project implements a full **LLMOps Pipeline** to ensure AI reliability.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-## 9. Developer & Project Resources 
+## 10. 👨‍💻 Developer & Project Resources 
 
 **Ratnesh Kumar Singh | Data Scientist (AI/ML Engineer)**
 > *Specializing in AI/ML ,Agentic & Generative AI, MLOps,LLMOps,AIOps and Scalable System Design.*
