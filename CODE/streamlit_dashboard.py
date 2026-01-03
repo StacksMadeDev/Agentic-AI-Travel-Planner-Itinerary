@@ -1514,20 +1514,20 @@ with tab6:
         
         with dc1:
             st.markdown("#### 1. 🔄 Data Flow")
-            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Flow.jpg"), width=450, caption="ELK Stack Data Flow")
+            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Flow.jpg"), use_container_width=True, caption="ELK Stack Data Flow")
             
             st.markdown("#### 3. 🚀 Deployment")
-            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Deployment.jpg"), width=450, caption="Production Deployment Architecture")
+            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Deployment.jpg"), use_container_width=True, caption="Production Deployment Architecture")
             
             st.markdown("#### 5. 📑 Vertical Stack")
-            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Vertical.png"), width=450, caption="ELK Stack Layers")
+            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Vertical.png"), use_container_width=True, caption="ELK Stack Layers")
 
         with dc2:
             st.markdown("#### 2. 🧱 Components")
-            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Components.png"), width=450, caption="ELK Components Breakdown")
+            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Components.png"), use_container_width=True, caption="ELK Components Breakdown")
 
             st.markdown("#### 4. ☸️ Kubernetes Logic")
-            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Kubernetes.png"), width=450, caption="Kubernetes & ELK Integration")
+            st.image(os.path.join(DIAGRAMS_DIR, "ELK_Kubernetes.png"), use_container_width=True, caption="Kubernetes & ELK Integration")
             
     except:
         st.caption("Diagrams not available")
