@@ -43,6 +43,7 @@ It is engineered as a **Production-Ready System**, featuring a microservices arc
 - **Project Demo** - [Live Link](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
 
 ---
+## UI Dashboard Walkthrough
 
 ![App Walkthrough](Diagarm/ai_travel_planner_walkthrough.gif)
 
