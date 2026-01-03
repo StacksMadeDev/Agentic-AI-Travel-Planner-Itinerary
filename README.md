@@ -266,20 +266,17 @@ This project implements a full **LLMOps Pipeline** to ensure AI reliability.
 ---
 
 
-## 📜 **License & Legal**
+## 📜 **License**
 
-This project is proudly strictly open-source under the **[MIT License](LICENSE)**.
+<div align="center">
 
-**You are free to:**
-*   ✅ **Use** for personal or commercial projects.
-*   ✅ **Modify** and adapt the source code.
-*   ✅ **Distribute** compiled versions.
+[![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
-**Under the following conditions:**
-*   ⚖️ **Attribution:** You must give appropriate credit (link back to this repository).
-*   🛡️ **Liability:** The software is provided "as is", without warranty of any kind.
+**This project is licensed under the MIT License.**
 
-Copyright © 2024 **Ratnesh Kumar Singh**. All Rights Reserved.
+Copyright © 2024 Ratnesh Kumar Singh
+
+</div>
 
 ---
 
