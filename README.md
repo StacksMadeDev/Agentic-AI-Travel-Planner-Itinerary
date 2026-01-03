@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 Table of Contents
+## 📑 Contents
 1.  [🚀 Project Overview](#-project-overview)
 2.  [✨ Key Features](#-key-features)
 3.  [🛠️ Technology Stack](#-technology-stack)
