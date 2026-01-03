@@ -66,11 +66,24 @@ The application features a premium, glassmorphism-inspired UI organized into **6
 *   **Visual Showcase:** Dynamic image grid representing different travel themes.
 *   **User Experience:** Includes sidebar tips, request statistics, and auto-logging to the system monitor.
 
+<img width="1877" height="686" alt="image" src="https://github.com/user-attachments/assets/954f9dae-3420-49ff-b1c4-fed7186eea43" />
+<img width="1817" height="734" alt="image" src="https://github.com/user-attachments/assets/13c413a5-0d58-4788-ae7c-9a519f522c1d" />
+<img width="1559" height="723" alt="image" src="https://github.com/user-attachments/assets/804fe69a-66a7-4e6c-bf9f-03d71a2a4035" />
+<img width="1866" height="744" alt="image" src="https://github.com/user-attachments/assets/0376b9dd-4c79-4b96-aacb-2737458639cd" />
+<img width="1851" height="754" alt="image" src="https://github.com/user-attachments/assets/086b5dd3-5f0e-4193-80b4-571bf33edf64" />
+<img width="1919" height="706" alt="image" src="https://github.com/user-attachments/assets/812b4336-e011-4e8b-b0da-ffac24b28e18" />
+<img width="1809" height="788" alt="image" src="https://github.com/user-attachments/assets/e454ba9f-4c4a-4f68-8115-b720d4ddb606" />
+
+
 ### 2️⃣ About Tab 📖
 **Project Context & Positioning:**
 *   **Objectives:** Breakdowns of Personalized AI Itineraries, Budget-Aware Planning, and Fast Inference.
 *   **Key Highlights:** Focuses on Agentic Workflows, Real-Time Generation, and LLMOps readiness.
 *   **Resume-Ready Points:** "Click to view" expander with bullet points tailored for technical interviews.
+   
+<img width="1232" height="623" alt="image" src="https://github.com/user-attachments/assets/ca137360-2986-4c3d-afe0-be866a64efd6" />
+<img width="1475" height="693" alt="image" src="https://github.com/user-attachments/assets/053eb53a-5b90-4f91-b9ed-ba77306f6abd" />
+<img width="1414" height="467" alt="image" src="https://github.com/user-attachments/assets/7dca90bd-0549-4d70-b5d5-35219970c7d3" />
 
 ### 3️⃣ Tech Stack Tab 🛠️
 **Deep Dive into Technologies:**
@@ -79,12 +92,20 @@ The application features a premium, glassmorphism-inspired UI organized into **6
 *   **Cloud & Infra:** GCP VM, GitHub Actions.
 *   **Containerization:** Docker & Kubernetes (Minikube).
 *   **Observability:** Full ELK Stack (Filebeat, Logstash, Elasticsearch, Kibana).
+  
+<img width="1371" height="665" alt="image" src="https://github.com/user-attachments/assets/67748363-8b83-42f4-a153-5b8d79073b74" />
+<img width="1546" height="521" alt="image" src="https://github.com/user-attachments/assets/f49902fb-228c-467c-8e20-b9caa778d794" />
+<img width="1272" height="720" alt="image" src="https://github.com/user-attachments/assets/d0c7c379-e2ac-4791-a0a1-15d69cf2a5e6" />
 
 ### 4️⃣ HLD & LLD Tab 🏗️
 **System Design Breakdown:**
 *   **High-Level Design (HLD):** Architecture diagrams showing User, AI, App, Infra, and Observability layers.
 *   **Low-Level Design (LLD):** Detailed component views including `app.py`, `config.py`, and `planner.py` logic flows.
 *   **Comparison Table:** a clear breakdown of HLD vs. LLD for educational purposes.
+
+<img width="1397" height="664" alt="image" src="https://github.com/user-attachments/assets/9a77ddf0-1991-4136-8bc3-a8e9f4b53bcc" />
+<img width="1492" height="693" alt="image" src="https://github.com/user-attachments/assets/08156312-debf-479e-8a99-37b4d88f320c" />
+<img width="1101" height="715" alt="image" src="https://github.com/user-attachments/assets/8e4db355-af9a-463b-945e-42dc30deb9d9" />
 
 ### 5️⃣ Architecture Tab 📐
 **The Production Workflow:**
@@ -94,6 +115,11 @@ The application features a premium, glassmorphism-inspired UI organized into **6
     *   🟨 **Containerization Layer:** Docker, K8s Pods.
     *   🟪 **Cloud Layer:** GCP VM, Version Control.
     *   🟩 **Build & Monitor:** Deployment & ELK tracking.
+      
+<img width="1482" height="600" alt="image" src="https://github.com/user-attachments/assets/019c2cae-fb05-4925-804b-f31aaf8088db" />
+<img width="1590" height="572" alt="image" src="https://github.com/user-attachments/assets/68cf2485-4516-4fc5-bfa2-9398ecc5dd48" />
+<img width="1083" height="745" alt="image" src="https://github.com/user-attachments/assets/fbc81262-c4e2-49cb-9fbc-caa2b71f166a" />
+<img width="1434" height="603" alt="image" src="https://github.com/user-attachments/assets/e1f59df2-a624-4569-aa61-4dc229617de5" />
 
 ### 6️⃣ System Logs Tab 📊
 **Real-Time LLM Observability:**
@@ -101,6 +127,11 @@ The application features a premium, glassmorphism-inspired UI organized into **6
 *   **Health Status:** Color-coded (Green=Success, Red=Error) indicators.
 *   **Metrics:** Real-time counters for Total Requests, Success Rate, and Error Rate.
 *   **Audit Trail:** Complete history of every user interaction and AI response.
+
+<img width="1610" height="714" alt="image" src="https://github.com/user-attachments/assets/750ddd17-5e8c-46e3-979f-234f775bd96e" />
+<img width="1519" height="722" alt="image" src="https://github.com/user-attachments/assets/6d7a8a80-e44a-4acc-b33a-6ad9c9f575e8" />
+<img width="1480" height="726" alt="image" src="https://github.com/user-attachments/assets/a466058d-def2-4e6a-8a94-631caaee683a" />
+<img width="1436" height="718" alt="image" src="https://github.com/user-attachments/assets/4aca20e4-2cdc-4743-8c72-4166ad8a20f5" />
 
 ---
 
