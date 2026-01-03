@@ -198,7 +198,11 @@ This project implements a full **LLMOps Pipeline** to ensure AI reliability.
 
 ---
 
-## 9. 📞 Project Resources & Author
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+
+## 9. Developer & Project Resources 
 
 **Ratnesh Kumar Singh | Data Scientist (AI/ML Engineer)**
 > *Specializing in Generative AI, LLMOps, and Scalable System Design.*
