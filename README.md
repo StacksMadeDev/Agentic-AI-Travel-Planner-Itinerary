@@ -8,7 +8,7 @@
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 
-<img width="569" height="267" alt="image" src="https://github.com/user-attachments/assets/bc386a73-7a90-4e54-afab-3a7196b09cb2" />
+<img width="890" height="403" alt="image" src="https://github.com/user-attachments/assets/11e81bac-317e-4fe3-bf1d-c5a95d16e1d9" />
 
 
 **An Enterprise-Grade, Agentic GenAI Application for Personalized Travel Planning.**
